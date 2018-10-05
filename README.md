@@ -1,6 +1,6 @@
 # rfc
 
-A suite of tools for querying RFCs.
+A man(1)-like viewer for rfc files.
 
 # Installation
 ```Bash
